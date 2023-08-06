@@ -31,11 +31,11 @@
 
 ##
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dbrenno&bg_color=87ceeb&color=4169eb&line=4169ff&point=6495ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-##
+
 
 <div align="right">
 <br><p align="right"><b>Contador de Visitas</b></p>  
-<p align="right"><img align="right" src="https://profile-counter.glitch.me/{Dbrenno}/count.svg  /></p> 
+<p align="right"><img align="right" src="https://profile-counter.glitch.me/{Dbrenno}/count.svg" /></p> 
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=ADD8E6&height=120&section=footer"/>
