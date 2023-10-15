@@ -19,15 +19,14 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C++&labelColor=0D1117)&nbsp;
-![Office](https://img.shields.io/badge/-Office-0D1117?style=for-the-badge&logo=OFFICE&labelColor=0D1117)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
 
 ###  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&width=1000&lines=Atualmente+estudando:)](https://git.io/typing-svg)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PostgreSql](https://img.shields.io/badge/-PostgreSql-0D1117?style=for-the-badge&logo=PostgreSQL&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ##
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dbrenno&bg_color=87ceeb&color=4169eb&line=4169ff&point=6495ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
