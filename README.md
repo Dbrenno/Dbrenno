@@ -26,9 +26,8 @@
 
 ###  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&width=1000&lines=Atualmente+estudando:)](https://git.io/typing-svg)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=purple&labelColor=0D1117)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ##
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dbrenno&bg_color=87ceeb&color=4169eb&line=4169ff&point=6495ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
