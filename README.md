@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Seja+Bem-vindo(a)+ao+meu+perfil+!+:D;Me+chamo+David+Brenno;Tenho+20+anos;Estou+Graduando+Sistemas+de+Informações;Stack+principal:+python;É+um+prazer+recebê-lo(a)!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=true&vCenter=true&width=1000&lines=Obs.:+O+Perfil+está+sendo+reorganizado+,portanto,+alguns+projetos+serão+repostos+em+breve.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&width=1000&lines=Obs.:+O+Perfil+está+sendo+reorganizado+,portanto,+alguns+projetos+serão+repostos+em+breve.)](https://git.io/typing-svg)
 
 <div align="center"> 
   <a href = "mailto:davidbrenno0101@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=DarkRed" target="_blank"></a>
