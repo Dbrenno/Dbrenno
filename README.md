@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/david-brenno-93492b234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
   <a href="https://instagram.com/_davidbrenno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
-<div>
+<div align="center">
   <h3>
-    Obs.: O perfil está sendo reorganizado, portanto, alguns projetos foram excluídos, mas serão repostos.
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Obs.:O+perfil+está+sendo+reorganizado+,+portanto+,+ alguns+projetos+foram+excluídos+,+mas+serão+repostos.)](https://git.io/typing-svg)
   </h3>
 </div>
 
